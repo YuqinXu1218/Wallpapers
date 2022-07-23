@@ -7,3 +7,5 @@
 - Big Sur
 - Big Sur Graphic
 - Monterey
+- The Desert
+- Windows 11
